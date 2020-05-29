@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # DiceApp 🎲
 
 This app was built following along with The App Brewery's Flutter course. In it I was able to explore these features:
